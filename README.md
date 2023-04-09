@@ -7,4 +7,4 @@ Software Requirements
 - tkvideo Library must be installed using command "pip install tkvideo" in cmd prompt (for rendering videos)
 
 Instructions for Download
-- 
+- Download "ATC.py" and all the files in "Data Files" Folder into 

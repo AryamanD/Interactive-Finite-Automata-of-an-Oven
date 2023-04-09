@@ -14,4 +14,4 @@ Instructions for Download
 
 Additional Information
 - A Video Illustration of the working of the project is also enclosed in the repository.
-- Also, a picture of the Finite state machine model of the Oven is also enclosed in the repository.
+- Also, a picture of the Finite state machine model of the Oven is enclosed in the repository.
